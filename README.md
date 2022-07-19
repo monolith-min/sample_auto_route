@@ -1,6 +1,8 @@
-# sample_go_route
+# sample_auto_route
 
 A new Flutter project.
+
+link https://pub.dev/packages/auto_route
 
 ## Getting Started
 
